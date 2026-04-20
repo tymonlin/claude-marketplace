@@ -16,6 +16,16 @@
         "url": "https://github.com/honghaowuu/docflow.git"
       },
       "homepage": "https://github.com/honghaowuu/docflow"
+    },
+    {
+      "name": "java-kits",
+      "description": "AI-assisted java generation pipeline for Claude Code.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tymonlin/claude-plugin-java.git"
+      },
+      "homepage": "https://github.com/tymonlin/claude-plugin-java"
     }
   ]
 }
