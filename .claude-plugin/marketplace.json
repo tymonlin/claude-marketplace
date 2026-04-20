@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "npt-marketplace",
+  "description": "Directory of npt Claude Code extensions including development tools, productivity plugins, and MCP integrations",
+  "owner": {
+    "name": "Newlandnpt",
+    "email": "support@newlandnpt.com"
+  },
+  "plugins": [
+    {
+      "name": "docflow",
+      "description": "AI-assisted documentation pipeline for Claude Code.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/honghaowuu/docflow.git"
+      },
+      "homepage": "https://github.com/honghaowuu/docflow"
+    }
+  ]
+}
