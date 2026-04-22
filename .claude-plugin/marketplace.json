@@ -36,6 +36,16 @@
         "url": "https://github.com/tymonlin/claude-plugin-frontend.git"
       },
       "homepage": "https://github.com/tymonlin/claude-plugin-frontend"
+    }，
+    {
+      "name": "reverse-doc",
+      "description": "AI-assisted reverse doc for project.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tymonlin/claude-code-java-reverse.git"
+      },
+      "homepage": "https://github.com/tymonlin/claude-code-java-reverse"
     }
   ]
 }
