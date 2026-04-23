@@ -23,9 +23,9 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "git@github.com:tymonlin/claude-plugin-java.git"
+        "url": "https://github.com/tymonlin/claude-plugin-java.git"
       },
-      "homepage": "git@github.com:tymonlin/claude-plugin-java"
+      "homepage": "https://github.com/tymonlin/claude-plugin-java"
     },
     {
       "name": "frontend-kits",
